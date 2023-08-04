@@ -1,0 +1,14 @@
+
+.w30{
+    margin: 10% auto;
+    width: 30%;
+    box-shadow: 0 0 3px #ccc;
+    
+    /* border: 2px solid red; */
+}
+button{
+    width: 100%;
+}
+textarea{
+    text-align: right;
+}
